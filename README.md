@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Wireshark Packet Captures (PCAPs)</b>
+- <b> tcpdump Packet Captures (PCAPs) and analysis</b>
+
+- <b> Wireshark Packet Captures (PCAPs) and analysis</b>
 
 
 <h2> 🤳 Connect with me:</h2>
