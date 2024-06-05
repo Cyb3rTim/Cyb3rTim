@@ -8,7 +8,12 @@
 - <b> Wireshark Packet Captures (PCAPs) and analysis</b>
 
 <h2>📄Certifications</h2>
-
+  - [CompTIA A+]
+  - [CompTIA Network+] </br>
+  - [CompTIA Cloud+☁️ ] </br>
+  - [CompTIA Security+] </br>
+  - [CompTIA Project+] </br>
+  - [AWS Cloud Practitioner☁️] </br>
 
 <h2> 🤳 Connect with me:</h2>
 
