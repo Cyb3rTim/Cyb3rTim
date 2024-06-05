@@ -7,6 +7,8 @@
     
 - <b> Wireshark Packet Captures (PCAPs) and analysis</b>
 
+<h2>📄Certifications</h2>
+
 
 <h2> 🤳 Connect with me:</h2>
 
