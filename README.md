@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tim! Cyber Analysis & Defense Professional (Blue Team) </h1>
+<h1>Hi, I'm Tim! Cybersecurity Professional 🔐 (Blue Team) </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
