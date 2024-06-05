@@ -15,6 +15,9 @@
   - [Security+](https://www.credly.com/badges/3078d871-e501-4dbb-ab7d-a643311e9ffc/public_url)
   - [Cloud+](https://www.credly.com/badges/c56adf83-ee50-4462-afee-6dd2de268886/public_url)
   - [Project+](https://www.credly.com/badges/9b23f649-a279-4898-8f7c-3ac3b0e68602/public_url)
+    
+- <b> AWS ☁️ </b>
+  - [Cloud Practitioner](https://www.credly.com/badges/34d6d8f9-cb69-4983-b603-eae9474215f7/public_url)
  
 <h2> 🤳 Connect with me:</h2>
 
