@@ -18,6 +18,10 @@
     
 - <b> AWS ☁️ </b>
   - [Cloud Practitioner](https://www.credly.com/badges/34d6d8f9-cb69-4983-b603-eae9474215f7/public_url)
+
+ - <b> Cloud Security Alliance ☁️ </b>
+   - [CCSK](https://www.credly.com/badges/636ab74d-5f7b-49fb-b8ee-2d80a7b70fb4/public_url)
+
  
 <h2> 🤳 Connect with me:</h2>
 
