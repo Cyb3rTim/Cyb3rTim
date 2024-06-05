@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> tcpdump Packet Captures (PCAPs) and analysis</b>
+- <b> tcpdump Home Lab (https://canvas.sans.edu/eportfolios/343) </b>
 
 - <b> Wireshark Packet Captures (PCAPs) and analysis</b>
 
