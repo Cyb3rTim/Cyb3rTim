@@ -9,6 +9,9 @@
 
 <h2>📄Certifications</h2>
 
+- <b> GIAC </b>
+  - [GFACT](https://www.credly.com/badges/4d38fbd2-7fa2-4e68-a0e6-11e0c9fd4dee/public_url)
+
 - <b> CompTIA </b>
   - [A+](https://www.credly.com/badges/8371b787-3b71-41f1-9955-7f685219f2fb/public_url)
   - [Network+](https://www.credly.com/badges/c89f0c5e-dd8b-4594-a960-32aa57c19efe/public_url)
