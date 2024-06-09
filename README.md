@@ -5,7 +5,7 @@
 - <b> tcpdump Home Lab </b>
   - [Filtering and Analyzing Packet Captures](https://canvas.sans.edu/eportfolios/343)
     
-- <b> Wireshark Packet Captures (PCAPs) and analysis</b>
+- <b> Wireshark Home Lab </b>
 
 <h2>📄Certifications</h2>
 
