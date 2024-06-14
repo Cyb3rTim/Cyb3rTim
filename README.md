@@ -6,6 +6,7 @@
   - [Filtering and Analyzing Packet Captures](https://canvas.sans.edu/eportfolios/343)
     
 - <b> Wireshark Home Lab </b>
+  - In Progress...
 
 <h2>📄Certifications</h2>
 
