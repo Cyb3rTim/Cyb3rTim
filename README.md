@@ -15,6 +15,7 @@
 
 - <b> CompTIA </b>
   - [Security+](https://www.credly.com/badges/3078d871-e501-4dbb-ab7d-a643311e9ffc/public_url)
+  - [CySA+](https://www.credly.com/badges/e86a1350-11e2-4ede-b258-bee7f6c2d745/public_url)
   - [Cloud+](https://www.credly.com/badges/c56adf83-ee50-4462-afee-6dd2de268886/public_url)
   - [Project+](https://www.credly.com/badges/9b23f649-a279-4898-8f7c-3ac3b0e68602/public_url)
 
