@@ -13,14 +13,16 @@
 ---
 ## 📜 Education & Certifications
 
-- **Bachelor of Science in Cybersecurity & Information Assurance**  
-  Western Governors University (WGU) 🦉
-      
-- **Applied Cybersecurity (ACS) Certificate**  
-SANS Technology Institute  🐺
+## 🎓 Education
 
-- **Associate of Science in Intelligence Studies & Technology**  
-Air University ✈️ 
+- **Bachelor of Science – Cybersecurity & Information Assurance**  
+  *Western Governors University (WGU)* 🦉
+
+- **Applied Cybersecurity (ACS) Certificate**  
+  *SANS Technology Institute* 🐺
+
+- **Associate of Science – Intelligence Studies & Technology**  
+  *Air University* ✈️
 
 ---
 
