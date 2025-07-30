@@ -1,4 +1,4 @@
-<h1> Cyber Threat Intelligence | Incident Responder | Blue Team </h1>
+<h1> 🔍 Cyber Threat Intelligence | 🛡️ Security Operations </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
