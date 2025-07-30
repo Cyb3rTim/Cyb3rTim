@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> tcpdump Home Lab </b>
-  - [Filtering and Analyzing Packet Captures](https://canvas.sans.edu/eportfolios/343)
+- <b> 🕵️‍♂️ Digital Forensics </b>
+  - [Digital Forensics in Cybersecurity](https://github.com/Cyb3rTim/Digital-Forensics.git)
+
+
+- <b> Packet Captures (PCAPs) </b>
+  - [Filtering and analyzing packet captures using tcpdump](https://canvas.sans.edu/eportfolios/343)
     
 
 <h2>📄Certifications</h2>
