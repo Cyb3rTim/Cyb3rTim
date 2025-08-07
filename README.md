@@ -1,14 +1,20 @@
-<h1> 🔍 Cyber Threat Intelligence | 🛡️ Security Operations </h1>
+## 🔍 Cyber Threat Intelligence | 🛡️ Security Operations
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b> 🕵️‍♂️ Digital Forensics </b>
-  - [Digital Forensics in Cybersecurity](https://github.com/Cyb3rTim/Digital-Forensics.git)
+### 👨‍💻 Cybersecurity Projects
 
 
-- <b> ✉️ Packet Captures (PCAPs) using tcpdump </b>
-  - [GitHub Repo](https://github.com/Cyb3rTim/tcpdumpLab.git)
-  - [SANS Repo](https://canvas.sans.edu/eportfolios/343)
+- **🧪 APT27 Threat Intelligence Dashboard**  
+    Visual CTI dashboard with IOC mapping, MITRE ATT&CK integration, and SOAR playbooks. 🔗 [Live Demo](https://threat-intel-view-cyb3rtim.replit.app) • [GitHub Repo](https://github.com/Cyb3rTim/APT27-Threat-Intel-Dashboard) 
+  
+
+- **🕵️‍♂️ Digital Forensics Toolkit**  
+    Autopsy and Sleuth Kit analysis on compromised disk images with documented findings. 
+  🔗 [GitHub Repo](https://github.com/Cyb3rTim/Digital-Forensics)
+
+- **✉️ Packet Capture Lab (tcpdump)**  
+    Hands-on packet capture and protocol inspection using tcpdump. Includes real-world traffic samples.
+  🔗 [GitHub Repo](https://github.com/Cyb3rTim/tcpdumpLab) • [SANS Portfolio](https://canvas.sans.edu/eportfolios/343)
+
     
 ---
 
