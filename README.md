@@ -1,4 +1,4 @@
-## 🔍 Cyber Threat Intelligence | 🛡️ Security Operations
+## 🔍 Cyber Threat Intelligence | 🔐 Security Operations
 
 ###  🛡️ Threat Intelligence & SOC Projects
 
@@ -12,12 +12,11 @@
   Autopsy and Sleuth Kit analysis on compromised disk images with documented findings and evidence handling procedures.  
   🔗 <a href="https://github.com/Cyb3rTim/Digital-Forensics" target="_blank">GitHub Repo</a>
 
-### ✉️ Network Traffic Analysis & PCAP Labs
+### 🌐 Network Traffic Analysis & PCAP Labs
 
 - **Packet Capture Lab (tcpdump)**  
   Hands-on lab using `tcpdump` to capture and analyze network traffic. Includes sample PCAP files and annotated walkthroughs.  
   🔗 <a href="https://github.com/Cyb3rTim/tcpdumpLab" target="_blank">GitHub Repo</a> • <a href="https://canvas.sans.edu/eportfolios/343" target="_blank">SANS Portfolio</a>
-
 
 ---
 
