@@ -4,7 +4,7 @@
 
 - **APT27 Threat Intelligence Dashboard**  
   Visual CTI dashboard with IOC mapping, MITRE ATT&CK integration, CVE tracking, and SOAR playbooks.  
-  🔗 [Live Demo](https://threat-intel-view-cyb3rtim.replit.app) • [GitHub Repo](https://github.com/Cyb3rTim/APT27-Threat-Intel-Dashboard)
+  🔗 [Live Demo](https://threat-intel-view-cyb3rtim.replit.app) • [GitHub Repo](https://github.com/Cyb3rTim/Cyber-Threat-Intelligence-Dashboard)
 
 
 ### 🕵🏽 Digital Forensics & Incident Response
