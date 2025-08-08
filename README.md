@@ -1,24 +1,22 @@
 ## 🔍 Cyber Threat Intelligence | 🛡️ Security Operations
 
-###  🛡️  Threat Intelligence & SOC Projects
+###  🛡️ Threat Intelligence & SOC Projects
 
-- **🧪 APT27 Threat Intelligence Dashboard**  
+- **APT27 Threat Intelligence Dashboard**  
   Visual CTI dashboard with IOC mapping, MITRE ATT&CK integration, CVE tracking, and SOAR playbooks.  
-  🔗 [Live Demo](https://threat-intel-view-cyb3rtim.replit.app) • [GitHub Repo](https://github.com/Cyb3rTim/APT27-Threat-Intel-Dashboard)
+  🔗 <a href="https://threat-intel-view-cyb3rtim.replit.app" target="_blank">Live Demo</a> • <a href="https://github.com/Cyb3rTim/APT27-Threat-Intel-Dashboard" target="_blank">GitHub Repo</a>
 
+### 🕵🏽 Digital Forensics & Incident Response
 
-### 🧬 Digital Forensics & Incident Response
-
-- **🕵️‍♂️ Digital Forensics Toolkit**  
+- **Digital Forensics Toolkit**  
   Autopsy and Sleuth Kit analysis on compromised disk images with documented findings and evidence handling procedures.  
-  🔗 [GitHub Repo](https://github.com/Cyb3rTim/Digital-Forensics)
+  🔗 <a href="https://github.com/Cyb3rTim/Digital-Forensics" target="_blank">GitHub Repo</a>
 
+### ✉️ Network Traffic Analysis & PCAP Labs
 
-### 🌐 Network Traffic Analysis & PCAP Labs
-
-- **✉️ Packet Capture Lab (tcpdump)**  
+- **Packet Capture Lab (tcpdump)**  
   Hands-on lab using `tcpdump` to capture and analyze network traffic. Includes sample PCAP files and annotated walkthroughs.  
-  🔗 [GitHub Repo](https://github.com/Cyb3rTim/tcpdumpLab) • [SANS Portfolio](https://canvas.sans.edu/eportfolios/343)
+  🔗 <a href="https://github.com/Cyb3rTim/tcpdumpLab" target="_blank">GitHub Repo</a> • <a href="https://canvas.sans.edu/eportfolios/343" target="_blank">SANS Portfolio</a>
 
 
 ---
